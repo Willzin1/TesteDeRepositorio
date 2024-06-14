@@ -1,0 +1,13 @@
+1° Configurei minha conta e o meu email usando o git config --global user.name / user.email.
+
+2° Clonei o meu repositório usando o git clone + link do repositório.
+
+3° Entrei no repositório usando cd + nome do repositório.
+
+4° Populei o repositório com um arquivo.
+
+5° Adcionei no repositório usando git add .
+
+6° Fiz o commit usando git commit -m "Teste de primeiro commit".
+
+7° Enviei para o GitHub usando o git push.
